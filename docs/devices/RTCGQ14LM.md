@@ -41,7 +41,8 @@ After this the device will automatically join. If this doesn't work, try with a 
 
 ![RTCGQ14LM pairing](../images/pairing/RTCGQ14LM_pairing.jpg)
 
-*Note: When you fail to pair a device, try replacing the battery, this could solve the problem.*
+*Note: When you fail to pair a device, try replacing the battery, this could solve the problem.
+       Also try to pair with Zigbee Installation Code, printed on the manual.*
 <!-- Notes END: Do not edit below this line -->
 
 
